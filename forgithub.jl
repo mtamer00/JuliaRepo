@@ -20,5 +20,5 @@ absE=zeros(1001);
 for i in 1:1001
     absE[i]=abs(E[i]);
 end 
-plot(θ,absE, title="Radiation Pattern of a=0.9λ Circular Loop Antenna" , proj = :polar, label=["|E| in V/m"])
+plot(θ,absE, title="Radiation Pattern of a=0.9λ Circular Loop A." , proj = :polar, label=["|E| in V/m"])
 #savefig("D:\\other\\JuliaWorks\\Figures\\Lab4\\Fig4")
