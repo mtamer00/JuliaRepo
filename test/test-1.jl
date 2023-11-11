@@ -1,2 +1,2 @@
 m=1;
-println(m);
+println("buradayım $m");
