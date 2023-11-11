@@ -1,2 +1,2 @@
-A="This is a string";
+A="This may be a string";
 println(A);
