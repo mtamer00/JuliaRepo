@@ -1,0 +1,2 @@
+Y="Merhaba";
+println(Y);
